@@ -3,7 +3,6 @@
 ## About
 
 End to End covid-19 prediction web application. This app gives predicts the covid records after 10 days. Matlplotlib is used for visual representation of the prediction.
-Backend is developed in **Flask** and **kaggle Covid-19 world data**([Dataset link](https://www.kaggle.com/sudalairajkumar/covid19-in-india)) is used.
 
 
 ## Technologies
@@ -22,8 +21,3 @@ Backend is developed in **Flask** and **kaggle Covid-19 world data**([Dataset li
 * Go to command line 
   * cd/project_directory
   * python app.py
-
-## Contributers
-
-* @sheoranabhishek
-* @himanshu530
