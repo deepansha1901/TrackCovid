@@ -2,7 +2,7 @@
 
 ## About
 
-End to End covid-19 prediction web application. This app gives predicts the covid records after 10 days. Matlplotlib is used for visual representation of the prediction.
+End to End covid-19 prediction web application. This app gives prediction of the covid records after 10 days. Matlplotlib is used for visual representation of the prediction.
 
 
 ## Technologies
@@ -21,3 +21,6 @@ End to End covid-19 prediction web application. This app gives predicts the covi
 * Go to command line 
   * cd/project_directory
   * python app.py
+
+## Contribution
+ Prediction Model designed by Deepansha Goyal
